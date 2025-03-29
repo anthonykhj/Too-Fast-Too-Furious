@@ -1,5 +1,5 @@
 # Too Fast Too Furious
-SQL-Driven Analysis of Car Rental Data for Safety and Sustainability
+An SQL-Driven analysis of car rental data for safety and sustainability.
 
 ## 📌 Overview
 A data analysis project exploring driving behavior, rental patterns, and carbon emissions using SQL queries on a car rental dataset from Singapore. This project answers the following queries:
