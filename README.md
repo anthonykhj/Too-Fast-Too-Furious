@@ -2,7 +2,7 @@
 An SQL-driven analysis of car rental data for safety and sustainability.
 
 ## 📌 Overview
-A data analysis project exploring driving behavior, rental patterns, and carbon emissions using SQL queries on a car rental dataset from Singapore. This project answers the following queries:
+This project analyses driving behavior, rental patterns, and carbon emissions using SQL queries on a car rental dataset from Singapore. This project answers the following queries:
 | No. | Query | Database Tables Considered |
 |-----|------------------|--------------------------|
 | 1 | What are the unique `[generalLoc]`? | `postalCodeTBL` |
